@@ -1,0 +1,459 @@
+/*most of the galaxy fold mobile device code goes here*/
+
+@media (min-width: 279px) and (max-width:319px)
+{
+/*css strt*/
+.container{
+	width: 100%;
+	margin: 0px auto;
+}
+.col-6{
+	width: 100%;
+	float: left;
+}
+.col-4{
+	width: 100%;
+	float: left;
+}
+.header .logo{
+	display: block;
+	text-align: center;
+}
+.nav-menu{
+	width: 100%;
+	text-align: center;
+}
+.nav-menu li a{
+	font-size: 10px;
+	margin: 10px 8px 10px;
+}
+.loginbox{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.Banner{
+	padding: 80px 0px;
+}
+.Banner h1{
+	font-size: 24px;
+	line-height: 1.2em;
+}
+.Banner p{
+	font-size: 10px;
+	line-height: 1.7em;
+}
+.Banner img{
+	width: 85%;
+}
+.successfully{
+	width: 100%;
+	padding: 10px 0px 30px;
+}
+.left-text{
+	text-align: left;
+	margin-left: 20px;
+	padding-top: 40px;
+}
+.left-text h1{
+	font-size: 24px;
+	line-height: 1.2em;
+}
+.left-text p{
+	font-size: 10px;
+	line-height: 1.7em;
+}
+.right-text h1{
+	font-size: 24px;
+	line-height: 1.2em;
+}
+.feature{
+	width: 100%;
+	float: left;
+	padding: 0px 0px 20px;
+}
+.inner-feature{
+	width: 67%;
+	padding: 30px 20px;
+	margin: 10px 24px;
+	float: left;
+}
+.inner-feature h4{
+    font-size: 20px;
+	line-height: 1.2em;
+}
+.inner-feature p{
+	font-size: 10px;
+	line-height: 1.7em;
+}
+.footer p{
+	font-size: 10px;
+	line-height: 1.7em;
+}
+.footer p strong{
+	font-size: 10px;
+	font-weight: 600;
+}
+.loginform{
+	padding-top: 170px;
+}
+.form-container{
+	padding: 15px;
+}
+.forminput input{
+	width:80%;
+}
+.Registerform{
+	padding-top: 170px;
+}
+.image img{
+	width: 100%;
+	margin-top: 0px;
+}
+.Content{
+	width: 100%;
+	padding: 60px 0px;
+	
+}
+.quickcontent{
+	text-align: center;
+	
+}
+.quickcontent h2{
+	font-size: 22px;
+	font-weight: bolder;
+	margin-bottom: 10px;
+}
+.quickcontent p{
+	font-size: 12px;
+	line-height: 1.7em;
+	margin-top: 10px;
+}
+.inner-fearurex{
+	margin: 10px 50px;
+	border-radius: 5px;
+	width: 50%;
+	float: left;
+	background-color: #eee;
+}
+.price-plan{
+	width: 100%;
+	text-align: center;
+}
+.card-wraper{
+    width: 190px;
+    height: auto;
+
+}
+/*css end*/
+}
+
+/*most of the smart phone or mobile device code goes here*/
+
+@media (min-width: 320px) and (max-width:480px)
+{
+/*css strt*/
+.container{
+	width:100%;
+	margin: 0px auto;
+}
+.col-6{
+	width: 100%;
+	float: left;
+}
+.col-4{
+	width: 100%;
+	float: left;
+}
+.header .logo{
+	display: block;
+	text-align: center;
+}
+.nav-menu{
+	width: 100%;
+	text-align: center;
+}
+.nav-menu li a{
+	margin: 0px 10px 10px;
+	font-size: 12px;
+}
+.loginbox{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.Banner{
+	padding: 80px 0px;
+}
+.Banner h1{
+	font-size: 25px;
+	line-height: 1.2em;
+}
+.Banner p{
+	font-size: 12px;
+	line-height: 1.7em;
+}
+.Banner img{
+	width: 85%;
+}
+.successfully{
+	width: 100%;
+	padding: 20px 0px 30px;
+}
+.left-text{
+	text-align: left;
+	padding-top: 30px;
+	margin-left: 25px;
+}
+.left-text h1{
+	font-size: 26px;
+	line-height: 1.2em;
+}
+.left-text p{
+	font-size: 12px;
+	line-height: 1.7em;
+}
+.right-text h1{
+	font-size: 26px;
+	line-height: 1.2em;
+}
+.feature{
+	padding: 0 0 20px;
+}
+.inner-feature{
+	margin: 0 12px 15px;
+}
+.footer p{
+	font-size: 12px;
+	line-height: 1.7em;
+}
+.footer p strong{
+	font-size: 12px;
+	font-weight: 600;
+}
+.loginform{
+	padding-top: 100px;
+}
+.forminput input{
+	width:80%;
+}
+.Registerform{
+	padding-top: 100px;
+}
+.Content{
+	width: 100%;
+	padding: 30px 0px;
+	
+}
+.quickcontent h2{
+	font-size: 26px;
+	font-weight: bolder;
+	text-align: center;
+}
+.quickcontent p{
+	font-size: 12px;
+	line-height: 1.7em;
+	margin-top: 10px;
+}
+.inner-fearurex{
+	margin: 20px 75px;
+	border-radius: 5px;
+	width: 50%;
+	float: left;
+	background-color: #eee;
+}
+/*css end*/
+}
+
+/*most of the high.r mobile or low.r tab code goes here*/
+
+@media (min-width: 481px) and (max-width:767px)
+{
+/*css strt*/
+.container{
+	width: 100%;
+	margin: 0px auto;
+}
+.col-6{
+	width: 100%;
+	float: left;
+}
+.col-4{
+	width: 100%;
+	float: left;
+}
+.header .logo{
+	display: block;
+	text-align: center;
+}
+.nav-menu{
+	text-align: center;
+}
+.nav-menu li a{
+	font-size: 13px;
+}
+.loginbox{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.Banner{
+	padding: 80px 0px;
+}
+.Banner h1{
+	font-size: 30px;
+	line-height: 1.2em;
+}
+.Banner p{
+	font-size: 13px;
+	line-height: 1.7em;
+}
+.Banner img{
+	width: 85%;
+}
+.successfully{
+	width: 100%;
+	padding: 10px 0px 40px;
+}
+.left-text{
+	text-align: left;
+	margin-left: 70px;
+	padding-top: 50px;
+}
+.left-text h1{
+	font-size: 30px;
+	line-height: 1.2em;
+}
+.left-text p{
+	font-size: 13px;
+	line-height: 1.7em;
+}
+.right-text{
+	margin-left: 50px;
+}
+.right-text h1{
+	font-size: 30px;
+	line-height: 1.2em;
+}
+.feature{
+	padding: 0 0 30px;
+}
+.inner-feature{
+	margin: 0 30px 25px;
+}
+.loginform{
+	padding-top: 120px;
+}
+.Registerform{
+	padding-top: 120px;
+}
+.Content{
+	width: 100%;
+	padding: 50px 0px;
+	
+}
+.quickcontent h2{
+	font-size: 26px;
+	font-weight: bolder;
+	text-align: center;
+}
+.inner-fearurex{
+	margin: 20px 60px;
+	border-radius: 5px;
+	width: 72%;
+	float: left;
+	background-color: #eee;
+}
+/*css end*/
+}
+
+/*most of the tablet,notebook,ipad code goes here*/
+
+@media (min-width: 768px) and (max-width:1024px)
+{
+/*css strt*/
+.container{
+	width: 95%;
+	margin: 0px auto;
+}
+.col-4{
+	width: 100%;
+	float: left;
+}
+.header .logo{
+	display: block;
+	text-align: center;
+}
+.nav-menu{
+	text-align: center;
+}
+.nav-menu li a{
+	font-size: 13px;
+}
+.loginbox{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.Banner{
+	padding: 80px 0px;
+}
+.Banner h1{
+	font-size: 40px;
+	line-height: 1.2em;
+}
+.Banner p{
+	font-size: 13px;
+	line-height: 1.8em;
+}
+.left-text h1{
+	font-size: 35px;
+	line-height: 1.2em;
+}
+.left-text p{
+	font-size: 13px;
+	line-height: 1.7em;
+}
+.right-text h1{
+	font-size: 40px;
+	line-height: 1.2em;
+}
+.inner-feature{
+	margin: 0 100px 25px;
+}
+.loginform{
+	padding-top: 250px;
+}
+.form-container{
+	padding: 0px;
+}
+.forminput input{
+	width:80%;
+}
+.Registerform{
+	padding-top: 250px;
+}
+.Content{
+	width: 100%;
+	padding: 50px 0px;
+	
+}
+.quickcontent{
+	margin: 50px auto;
+	text-align: center;
+	
+}
+.quickcontent h2{
+	font-size: 26px;
+	font-weight: bolder;
+	text-align: center;
+}
+.inner-fearurex{
+	margin: 20px 100px;
+	border-radius: 5px;
+	width: 72%;
+	float: left;
+	background-color: #eee;
+}
+/*css end*/
+}
